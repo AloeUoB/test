@@ -1,1 +1,1 @@
-This is a readme file on Thanaphon PC.
+This is a readme file on Thanaphon PC
